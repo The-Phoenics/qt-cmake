@@ -1,0 +1,8 @@
+.vscode
+build
+bin
+
+.vscode/**
+*.a
+*.exe
+*.so
